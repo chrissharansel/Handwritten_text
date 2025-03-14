@@ -14,3 +14,9 @@
 ```bash
 pip install keras==2.3.1 matplotlib==3.1.3 numpy==1.18.1  
 pip install opencv-python==4.2.0.32 scikit-learn==0.0 tensorflow==2.0.0  
+<<<<<<< HEAD
+=======
+IAM Dataset Master Link: http://www.fki.inf.unibe.ch/databases/iam-handwriting-database
+
+
+>>>>>>> fb13daa3f3d7abe958549fa82089dca1943d5c81
